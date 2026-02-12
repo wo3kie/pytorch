@@ -7,12 +7,6 @@ Small collection of notebooks exploring PyTorch library.
 ## Website
 https://github.com/wo3kie/pytorch
 
-## Contents
-
-- `tensor.ipynb`: tensor creation and operations
-- `linear.ipynb`: simple Linear model walkthroughs
-- `functions.ipynb`: function and autograd experiments
-- `gpu.ipynb`: GPU checks and basic device usage
 
 ## Setup
 
@@ -31,3 +25,9 @@ jupyter notebook
 ```
 
 Open any of the notebooks listed above in the browser.
+  
+## Contents
+    
+### tensor.ipynb  
+Demonstrate PyTorch recipes, covering the creation of scalars, vectors, matrices, and tensors.  
+  
