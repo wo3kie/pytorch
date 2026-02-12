@@ -27,7 +27,10 @@ jupyter notebook
 Open any of the notebooks listed above in the browser.
   
 ## Contents
-    
+
+### functions.ipynb  
+Demonstrate basic PyTorch function usage, like sum, mean, pow, std, var, reshape, stack, cat, squeeze, unsqueeze, rand, randn, etc.  
+  
 ### tensor.ipynb  
 Demonstrate PyTorch recipes, covering the creation of scalars, vectors, matrices, and tensors.  
   
